@@ -1,0 +1,44 @@
+Affect Normal Fires 
+Alarm 
+Armour 
+Audible Glamer 
+Burning Hands 
+Jump 
+Nystul's Magical Aura 
+Shocking Grasp 
+Tenser's Floating Disc 
+Cantrip 
+Change Self 
+Charm Person 
+Chill Touch 
+Color Spray 
+Light 
+Phantasmal Force 
+Sleep 
+Unseen Servent 
+Comprhend Langs   
+Dancing Lights 
+Detect Magic 
+Detect Undead 
+Magic Missle 
+Protection From Evil   
+Spider Climb 
+Ventriloquism 
+Enlarge   
+Erase 
+Feather Fall 
+Find Familiar 
+Friends 
+Mending 
+Read Magic 
+Spook 
+Wall of Fog 
+Gaze Reflection 
+Grease 
+Hold Portal 
+Hypnotism 
+Identify 
+Mount 
+Sheild 
+Taunt 
+Wizard Mark

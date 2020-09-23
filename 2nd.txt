@@ -1,0 +1,42 @@
+Alter Self 
+Bind 
+Blindness 
+Blur 
+Continual Light    
+Darkness 15' Radius 
+Deafness 
+Deeppockets 
+Detect Evil   
+Detect Invisibility 
+ESP 
+Flaming Sphere 
+Fog Cloud 
+Fool's Gold 
+Forget 
+Glitterdust 
+Hypnotic Pattern 
+Improved Phantasmal Force 
+Invisibility 
+Irritation 
+Knock   
+Know Alignment   
+Leomund's Trap 
+Locate Object   
+Magic Mouth 
+Mef's Acid Arrow 
+Mirror Image 
+Misdirection 
+Protection From Cantrips 
+Pyrotechnics 
+Ray of Enfeeblement 
+Rope Trick 
+Scare 
+Spectral Hound 
+Shatter 
+Stinking Cloud 
+Strength 
+Summon Swarm 
+Tasha's Uncontrolable Hideous Laughter 
+Web 
+Whisper Wind
+Wizard Lock
